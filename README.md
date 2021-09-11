@@ -4,7 +4,8 @@
 
 ## Software Developer  
 
-<font color="blue"> Tea is how I keep up with "< code />" </font>
+<font color="pink"> Tea is how I keep up with </font>
+<font color="red"> test </font>
 
 ### Reach out to me
 [<img width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" align="left" />][Linkedin]
@@ -18,24 +19,20 @@
 
  <img src ="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/wordpress/wordpress.png" align="left" width="25" height ="25">
 
-<img src ="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/wordpress/wordpress.png" align="left" width="25" height ="25">
+<img src ="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/php/php.png" align="left" width="25" height ="25">
 
 <img src ="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/java/java.png" width="25" height ="25">
 
 <br/>
 
-# Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <details>
-<summary> bulb : Github Stats 
+<summary>  Github Stats 
 </summary>
 <img src="https://github-readme-stats.vercel.app/api?username=ZelihaArslan&theme=radical">
 </details>
 
 <details>
-<summary> bulb : Most Use Language 
+<summary> Most Use Language 
 </summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact&theme=radical">
 </details> 
