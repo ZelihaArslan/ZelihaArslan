@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47fta3ye6ab3e9tged01bnbi6v5gku35as31nx0f1x&rid=giphy.gif&ct=g" align="right" width="400" height="250">
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47fta3ye6ab3e9tged01bnbi6v5gku35as31nx0f1x&rid=giphy.gif&ct=g" align="right" width="250" height="150">
 
 ## Hi there! I'm Zeliha  🙋
 
