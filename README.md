@@ -13,12 +13,12 @@
 <br/>
 
 ### Tech I use
- <img src ="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="25" height ="25">
- <img src ="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/html/html.png" width="25" height ="25">
+ <img src ="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" align="left" width="25" height ="25">
+ <img src ="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/html/html.png" align="left" width="25" height ="25">
 
- <img src ="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/wordpress/wordpress.png" width="25" height ="25">
+ <img src ="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/wordpress/wordpress.png" align="left" width="25" height ="25">
 
-<img src ="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/wordpress/wordpress.png" width="25" height ="25">
+<img src ="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/wordpress/wordpress.png" align="left" width="25" height ="25">
 
 <img src ="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/java/java.png" width="25" height ="25">
 
@@ -28,19 +28,16 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
 <details>
 <summary> bulb : Github Stats 
 </summary>
-<img src="https://github-readme-stats.vercel.app/api?username=ZelihaArslan&theme=radical
-">
+<img src="https://github-readme-stats.vercel.app/api?username=ZelihaArslan&theme=radical">
 </details>
 
 <details>
 <summary> bulb : Most Use Language 
 </summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact&theme=radical
-">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact&theme=radical">
 </details> 
 
 [Linkedin]: https://www.linkedin.com/in/zeliha-arslan06/
