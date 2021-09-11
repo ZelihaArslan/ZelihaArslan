@@ -1,10 +1,10 @@
-<img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif?cid=790b7611bb94faaf4bbf9fbd4bd0881ecc0b64c88c1305a1&rid=giphy.gif&ct=g" align="right" width="200" height="150">
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47fta3ye6ab3e9tged01bnbi6v5gku35as31nx0f1x&rid=giphy.gif&ct=g" align="right" width="400" height="250">
 
 ## Hi there! I'm Zeliha  🙋
 
 ## Software Developer  💻
 
-<font color="blue"> Tea is how I keep up with ```< /code>``` </font>
+<font color="purple"> Tea is how I keep up with ```< /code>```</font>
 
 
 
