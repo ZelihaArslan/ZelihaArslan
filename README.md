@@ -27,11 +27,11 @@
 
 <br/>
 
-<details>
+
 <summary>  Github Stats 
 </summary>
 <img src="https://github-readme-stats.vercel.app/api?username=ZelihaArslan&theme=radical">
-</details>
+
 
 <details>
 <summary> Most Use Language 
