@@ -32,13 +32,13 @@
 <summary> 
  Github Stats 
 </summary>
-<img src="https://github-readme-stats.vercel.app/api?username=ZelihaArslan&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=zelihaarslan&theme=radical">
 
 
 <details>
 <summary> Most Use Language 
 </summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelihaarslan&layout=compact&theme=radical">
 </details> 
 
 [Linkedin]: https://www.linkedin.com/in/zeliha-arslan06/
