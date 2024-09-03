@@ -1,8 +1,8 @@
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47fta3ye6ab3e9tged01bnbi6v5gku35as31nx0f1x&rid=giphy.gif&ct=g" align="right" width="250" height="150">
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47fta3ye6ab3e9tged01bnbi6v5gku35as31nx0f1x&rid=giphy.gif&ct=g" align="center" width="250" height="150">
 
-## Hi there! I'm Zeliha  🙋
+# Hi there! I'm Zeliha  🙋
 
-## Software Developer  💻
+# Software Developer  💻
 
 <font color="purple"> Tea is how I keep up with ```< /code>```</font>
 
